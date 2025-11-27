@@ -88,5 +88,6 @@ This project demonstrates:
 - Next.js App Router patterns (dynamic routes, `generateMetadata`, Server/Client components)
 - UI/UX considerations (search, pagination, responsive navigation, validation)
 
-With a short description in your CV/portfolio and a deployed link (e.g. Vercel), this is **clearly suitable as a portfolio example**, especially for junior–mid React/Next.js roles.
-
+### Contact me for a Next.js Project: 
+**Message me on Whatsapp**:
+<a href="https://wa.me/989034260454?text=I want to order Next.js web app" target="_blank" rel="noopener noreferrer">I want to Order Next.js App</a>

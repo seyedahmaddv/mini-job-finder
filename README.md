@@ -3,6 +3,11 @@
 This is a small, production‑style **job board** built with **Next.js 14 (App Router)**.  
 It fetches remote jobs from the public **Remotive** API, lists them with search and pagination, and shows a detailed page for each job including similar positions and an application form.
 
+## Live Demo:
+
+
+## Picture of Mini Job Finder:
+(Home page in Light mode)[../public/mini-job-finder-home-white.png]
 ### Features
 
 - **Job listing page** (`/jobs`)

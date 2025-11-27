@@ -3,11 +3,17 @@
 This is a small, production‑style **job board** built with **Next.js 14 (App Router)**.  
 It fetches remote jobs from the public **Remotive** API, lists them with search and pagination, and shows a detailed page for each job including similar positions and an application form.
 
-## Live Demo:
+### Live Demo:
+🚀 **Live Demo:** <a href="https://mini-job-finder-phi.vercel.app/" target="_blank" rel="noopener noreferrer">Mini Job Finder</a>
 
+### Picture of Mini Job Finder:
+| | |
+| :---: | :---: |
+| ![Home in light](https://github.com/seyedahmaddv/mini-job-finder/blob/main/public/mini-job-finder-home-white.png?raw=true) | ![Home in dark](https://github.com/seyedahmaddv/mini-job-finder/blob/main/public/mini-job-finder-home-dark.png?raw=true) |
+| **Home in light mode** | **Home in dark mode** |
+| ![Job list](https://github.com/seyedahmaddv/mini-job-finder/blob/main/public/mini-job-finder-job-list.png?raw=true) | ![Apply page](https://github.com/seyedahmaddv/mini-job-finder/blob/main/public/mini-job-finder-apply-page.png?raw=true) |
+| **Job list page** | **Apply form page** |
 
-## Picture of Mini Job Finder:
-(Home page in Light mode)[../public/mini-job-finder-home-white.png]
 ### Features
 
 - **Job listing page** (`/jobs`)
